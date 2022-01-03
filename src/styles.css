@@ -1,0 +1,26 @@
+.card1 {
+  text-align: center;
+  background-color: #fff;
+  color: #ffffff;
+  margin: 20px;
+  border: 5px solid #226089;
+}
+
+.card2 {
+  text-align: center;
+  background-color: #4592af;
+  color: #ffffff;
+  margin: 20px;
+  border: 5px solid #226089;
+}
+
+.row {
+  text-align: center;
+  background-color: #226089;
+  color: #ffffff;
+  margin: 20px;
+}
+
+body {
+  background-color: #fff;
+}
